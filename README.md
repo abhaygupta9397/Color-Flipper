@@ -6,6 +6,7 @@ Changes the background color of the page on button click.
 Displays the generated color code (e.g., #FFFFFF).
 Simple, lightweight, and responsive design.
 Perfect for beginners learning JavaScript!
+
 🛠️ Technologies Used
 HTML: Structure of the page.
 CSS: Styling for the button and layout.
