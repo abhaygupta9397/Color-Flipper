@@ -12,21 +12,6 @@ HTML: Structure of the page.
 CSS: Styling for the button and layout.
 JavaScript: Core logic for color generation and DOM manipulation.
 
-📂 Project Structure
-bash
-Copy code
-color-flipper/
-│
-├── index.html         # HTML structure
-├── style.css          # Styling for the project
-├── script.js          # JavaScript logic
-└── README.md          # Project documentation
-
-🌈 How It Works
-Open the project in any modern browser.
-Click the "Change Color" button.
-Watch the background color change to a random color, and see the corresponding color code displayed on the screen.
-
 🤔 What I Learned
 DOM Manipulation: Adding event listeners and modifying elements dynamically.
 JavaScript Logic: Generating random colors using Math.random().
