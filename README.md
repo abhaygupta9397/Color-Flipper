@@ -1,6 +1,9 @@
 🎨 Color Flipper
 Color Flipper is a fun and interactive JavaScript project that allows users to change the background color of the page with just one click of a button. A great way to practice DOM manipulation and event handling!
 
+![image](https://github.com/user-attachments/assets/491fb414-7909-4a34-891a-33694db22a20)
+
+
 🚀 Features
 Changes the background color of the page on button click.
 Displays the generated color code (e.g., #FFFFFF).
